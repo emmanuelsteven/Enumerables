@@ -1,16 +1,24 @@
-require_relative 'my_enumerable'
+require_relative 'my_enumerables'
+
 # Represents a list of elements that pass certain conditions
 class MyList
   include MyEnumerable
 
-  def initialize(*element)
-    @list = element
+  def initialize(*elements)
+    @list = elements
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each
+    for element in @list
+      yield element
+    end
   end
 end
 
 list = MyList.new(1, 2, 3, 4)
-list.all? { |e| e < 5 }
+
+result = list.all? do |e|
+  e < 5
+end
+
+puts result

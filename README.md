@@ -117,6 +117,6 @@ I would like to thank cpatain Bawa for the immense support and insights.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/emmanuelsteven/Enumerables/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/emmanuelsteven/Enumerables/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
