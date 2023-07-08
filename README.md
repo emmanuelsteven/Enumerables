@@ -37,7 +37,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Decrypt_Morse_code]**
+- **[Implements_a_subset_of_the_functionality_enumerable]**
 
 <!-- GETTING STARTED -->
 
@@ -57,8 +57,8 @@ Clone this repository to your desired folder:
 - clone the repo with:
 
   ```sh
-  git clone https://github.com/emmanuelsteven/Morse_code.git
-  cd Morse_code
+  git clone https://github.com/emmanuelsteven/Enumerables.git
+  cd Enumerables
   ```
 
 ### Install
@@ -85,15 +85,11 @@ To run the project, execute the following command:
 - GitHub: [emmanuelsteven](https://github.com/emmanuelsteven)
 
 
-
-
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] 
-[Implements_a_subset_of_the_functionality_enumerable]
+- [ ] [Add_a_user_interface_for_the_enumerables]
 
 <!-- CONTRIBUTING -->
 
