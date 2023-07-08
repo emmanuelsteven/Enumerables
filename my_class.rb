@@ -8,10 +8,8 @@ class MyList
     @list = elements
   end
 
-  def each
-    for element in @list
-      yield element
-    end
+  def each(&block)
+    @list.each(&block)
   end
 end
 
