@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Morse-code\] ](#-morse-code-)
+- [📖 \[Enumerables\] ](#-morse-code-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -121,6 +121,6 @@ I would like to thank cpatain Bawa for the immense support and insights.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/emmanuelsteven/Morse_code/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/emmanuelsteven/Enumerables/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
